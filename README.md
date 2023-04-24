@@ -8,4 +8,4 @@ The Project aim is to create a wearable biometric nursing stress dataset that ca
 
 **[Nurses_2202481.ipynb](https://github.com/rathanraj1086/data-science-assignment-2/blob/main/Nurses_2202481.ipynb)**: Data understanding, data preprocessing, feature selection, model training/testing, and model evaluation are all included in the project's detailed code execution in Jupytor Notebook.
 
-**Maincode.py**:  The most accurate model, which uses all the files for Data preprocessing, Feature Selection, Model Training and Model Evaluation is coded in a python file.
+**[Maincode.py](https://github.com/rathanraj1086/data-science-assignment-2/blob/main/maincode.py)**:  The most accurate model, which uses all the files for Data preprocessing, Feature Selection, Model Training and Model Evaluation is coded in a python file.
